@@ -6,4 +6,4 @@
 
 * pull
 
-    `git pull --recurse-submodules <branch>`
+    `git pull --recurse-submodules`
